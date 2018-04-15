@@ -7,16 +7,16 @@
         本材质还涵盖了部分自定义方块（如有着八种姿态的荷花以及小青花，仅限PC版）和定制界面（例如睡觉时的温馨标语以及隐藏调试信息，仅限PE版），增添您的游戏乐趣。
         
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
-        您可以从下方的链接获取适用于基岩版或Java版我的世界的最新的梨子材质。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
+        您可以从下方的链接获取适用于基岩版或Java版我的世界的最新的梨子材质。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 ###            [下载 基岩版](https://pan.baidu.com/s/1CS69yjK4pDTydHXQMo1CAg)
 ###            [下载 Java版](https://pan.baidu.com/s/1mF-RPnOMnP3PLofEcmbM9g)
-        基岩版的材质包为mcpack格式，您可以直接打开；如果您是安卓用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
+        基岩版的材质包为mcpack格式，您可以直接打开；如果您是安卓用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
 ```markdown
-            _/sdcard/games/com.mojang/resource_packs
+            /sdcard/games/com.mojang/resource_packs
 ```
         Java版的材质包为zip格式，您可以将zip文件直接放在或解压至如下路径，随后在游戏设置中启用材质:
 ```markdown
-            _(盘符)/Users/(电脑用户名)/games/com.mojang/resource_packs/AppData/Roaming/.minecraft/resourcepacks
+            (盘符)/Users/(电脑用户名)/games/com.mojang/resource_packs/AppData/Roaming/.minecraft/resourcepacks
 ```
 
 # ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png)截图欣赏
