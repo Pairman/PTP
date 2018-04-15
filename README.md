@@ -5,11 +5,11 @@ Pear Textures Pack is a simplistic textures pack for both Java and Bedrock Editi
 You can get the latest version from the link below.
 ```markdown
 For Bedrock Version:
-[pan.baidu.com]
+[Link]pan.baidu.com
 ```
 ```markdown
 For Java Version:
-[pan.baidu.com]
+[Link]pan.baidu.com
 ```
 
 ### Markdown
