@@ -1,3 +1,18 @@
+## About Pear Textures Pack
+Pear Textures Pack is a simplistic textures pack for both Java and Bedrock Edition which changes the look of almost every block, item and entity.The colors of the textures are really soft and clean. Versions for Bedrock Edition not only has smooth ui but also adds some useful stuff,such as in-game coordinates addon and no debug information.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Pairman/PTP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
