@@ -27,8 +27,8 @@
 ![scroll3](https://ooo.0o0.ooo/2018/04/15/5ad3484134480.png)
 
 # ![5_con](https://ooo.0o0.ooo/2018/04/15/5ad356e93e3e3.png)联系方式
-　　　您可以通过底部的联系方式与我们联系，以反馈您宝贵的意见。感谢您对本材质的支持！
-            ![twitter](https://ooo.0o0.ooo/2018/04/15/5ad353238bf7b.png)[作者Twitter](https://www.twitter.com/Pairmanxlr)
-            ![qq](https://ooo.0o0.ooo/2018/04/15/5ad3531a48784.png)[官方Q群:523238993](https://jq.qq.com/?_wv=1027&k=5vuBSpI)
-            ![qq](https://ooo.0o0.ooo/2018/04/15/5ad3531a48784.png)[作者QQ:3068401619](https://qm.qq.com/cgi-bin/qm/qr?k=LJbV1ta7hDKCbGh57unZVvd4tMQ49McL)
+　　您可以通过底部的联系方式与我们联系，以反馈您宝贵的意见。感谢您对本材质的支持！
+　　　![twitter](https://ooo.0o0.ooo/2018/04/15/5ad353238bf7b.png)[作者Twitter](https://www.twitter.com/Pairmanxlr)
+　　　![qq](https://ooo.0o0.ooo/2018/04/15/5ad3531a48784.png)[官方Q群:523238993](https://jq.qq.com/?_wv=1027&k=5vuBSpI)
+　　　![qq](https://ooo.0o0.ooo/2018/04/15/5ad3531a48784.png)[作者QQ:3068401619](https://qm.qq.com/cgi-bin/qm/qr?k=LJbV1ta7hDKCbGh57unZVvd4tMQ49McL)
        
