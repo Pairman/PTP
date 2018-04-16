@@ -31,4 +31,4 @@
 ###            ![twitter](https://ooo.0o0.ooo/2018/04/15/5ad353238bf7b.png)[Twitter](https://www.twitter.com/Pairmanxlr)
 ###            ![qq](https://ooo.0o0.ooo/2018/04/15/5ad3531a48784.png)[Q群:523238993](https://jq.qq.com/?_wv=1027&k=5vuBSpI)
 ###            ![qq](https://ooo.0o0.ooo/2018/04/15/5ad3531a48784.png)[QQ:3068401619](https://qm.qq.com/cgi-bin/qm/qr?k=LJbV1ta7hDKCbGh57unZVvd4tMQ49McL)
-       
+![qq](https://ooo.0o0.ooo/2018/04/16/5ad490ef06f71.png)
