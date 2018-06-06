@@ -1,0 +1,145 @@
+﻿//A kindly reminder when sleeping(in_bed_screen.json).
+  //Code:
+      {
+        "sleeping": {
+          "type": "label",
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "offset": [ 0, "25%" ],
+          "text": "sleep.doing.msg",
+          "color": [ 0.3, 0.5, 0.8, 0.9 ],
+          "shadow": true,
+          "font_size": "large"
+        }
+      },
+  //Text:
+    sleep.doing.msg=晚安。//Chinese
+    sleep.doing.msg=Good Night!//English
+
+//Copyright at the bottom of the screen(start_screen.json).
+  //Code:
+  "development_version": {
+    "type": "label",
+    "layer": 2,
+    "text": "ptp.dev.co",
+    "size": [ "default", 9 ],
+    "color": [ 1.0, 1.0, 1.0  ],
+    "max_size": [ "100%", "100%" ],
+    "anchor_from": "center",
+    "anchor_to": "center"
+    "offset": [ 0, 0 ],
+    "bindings": [
+      {
+        "binding_name": "#development_version"
+      }
+    ]
+  },
+  //Text：
+     ptp.dev.co=版权归Micro Team所有,材质由Pairman制作。//Chinese
+     ptp.dev.co=©2016 Micro Team. Textures Made By Pairman.//English
+
+//Player position text(hud_screen.json).
+  //Code:
+            {
+              "player_position_text": {
+              "type": "label",
+              "text": "#text",
+              "anchor_from": "bottom_right",
+              "anchor_to": "bottom_right",
+              "color": [ 0.5, 0.6, 0.9 ],
+              "shadow": true,
+              "bindings": [
+                  {
+                    "binding_name": "#player_position_text",
+                    "binding_name_override": "#text",
+                    "binding_condition": "always_when_visible",
+                    "binding_type": "global"
+                  }
+                ]
+              }
+            },
+
+//PC liked GUI(hud_screen.json).
+  //Code:
+  "not_centered_gui_elements": {
+    "type": "panel",
+    "controls": [
+      {
+        "heart_rend@heart_renderer": {
+          "offset": [ -90, -40 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle"
+        }
+      },
+       {
+      "horse_heart_rend@horse_heart_renderer": {
+          "offset": [ 91, -60 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "layer": 1
+        }
+      },
+      {
+        "armor_rend@armor_renderer": {
+          "offset": [ -90, -60 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle"
+        }
+      },
+      {
+        "hunger_rend@hunger_renderer": {
+          "offset": [ 91, -40 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle"
+        }
+      },
+      {
+        "bubbles_rend@bubbles_renderer": {
+          "offset": [ 91,-50 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "bindings": [
+            {
+              "binding_name": "#is_not_riding",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "bubbles_rend@bubbles_renderer": {
+          "offset": [ 91, -50 ],
+          "anchor_from": "bottom_middle",
+          "anchor_to": "bottom_middle",
+          "bindings": [
+            {
+              "binding_name": "#is_riding",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+
+//Remove debugging information.
+  //Code:
+    "render_only_when_topmost": true
+
+//Enable "Destroy blocks(vibrate)" selection(controls_section.json).
+  //Code:
+      {
+        "option_toggle_4@settings_common.option_toggle": {
+          "$option_label": "options.destroyvibration",
+          "$option_binding_name": "#controller_vibration",
+          "$option_enabled_binding_name": "#controller_vibration_enabled",
+          "$toggle_name": "controller_vibration",
+          "$focus_override_right": "FOCUS_OVERRIDE_STOP"
+        }
+      },
+      {
+        "option_toggle_2@settings_common.option_toggle": {
+          "$option_label": "options.destroyvibration",
+          "$option_binding_name": "#touch_vibration",
+          "$option_enabled_binding_name": "#touch_vibration_enabled",
+          "$toggle_name": "touch_vibration"
+        }
+      },

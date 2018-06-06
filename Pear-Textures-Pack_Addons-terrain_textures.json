@@ -1,0 +1,5 @@
+﻿//Unattached side handed textures for sticky piston.
+    "piston_side_sticky": {
+      "textures": [
+        "textures/blocks/piston_side_sticky"
+      ]

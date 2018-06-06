@@ -1,0 +1,117 @@
+//Flipbook texture for beacon.
+  {
+    "flipbook_texture": "textures/blocks/beacon",
+    "atlas_tile": "beacon",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ]
+  },
+
+//Flipbook texture for burning furnace.
+  {
+    "flipbook_texture": "textures/blocks/furnace_front_on",
+    "atlas_tile": "furnace_front_on",
+    "ticks_per_frame": 2,
+    "frames": [ 0, 1, 2, 3, 4 ]
+  },
+  
+//Flipbook texture for lit Jack-o'-lantern.
+
+  {
+    "flipbook_texture": "textures/blocks/pumpkin_face_on",
+    "atlas_tile": "pumpkin_face_on",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ]
+  },
+
+//Flipbook texture for glowstone.
+  {
+    "flipbook_texture": "textures/blocks/glowstone",
+    "atlas_tile": "glowstone", 
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ] 
+  },
+
+//Flipbook texture for lit redstone lamp.
+  {
+    "flipbook_texture": "textures/blocks/redstone_lamp_on",
+    "atlas_tile": "redstone_lamp_on",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ] 
+  },
+
+//Flipbook texture for redstone ore.
+  {
+    "flipbook_texture": "textures/blocks/redstone_ore",
+    "atlas_tile": "redstone_ore", 
+	"ticks_per_frame": 4
+  },
+
+//Flipbook texture for kelp.Replacing Needed.
+  {
+    "flipbook_texture": "textures/blocks/kelp_a",
+    "atlas_tile": "kelp_a",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_b",
+    "atlas_tile": "kelp_b",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_c",
+    "atlas_tile": "kelp_c",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_d",
+    "atlas_tile": "kelp_d",
+    "ticks_per_frame": 4,
+     "frames": [ 0, 1, 2, 3, 4 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_top",
+    "atlas_tile": "kelp_top",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4 ]
+  },
+  {
+    "flipbook_texture": "textures/blocks/kelp_top_bulb",
+    "atlas_tile": "kelp_top_bulb",
+    "ticks_per_frame": 4,
+    "frames": [ 0, 1, 2, 3, 4 ]
+  },
+
+//Flipbook texture for seagrass.Replacing Needed.
+ {
+    "flipbook_texture": "textures/blocks/seagrass",
+    "atlas_tile": "seagrass_short",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/seagrass_doubletall_bottom_a",
+    "atlas_tile": "seagrass_tall_bot_a",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/seagrass_doubletall_bottom_b",
+    "atlas_tile": "seagrass_tall_bot_b",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/seagrass_doubletall_top_a",
+    "atlas_tile": "seagrass_tall_top_a",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/seagrass_doubletall_top_b",
+    "atlas_tile": "seagrass_tall_top_b",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 3
+  }

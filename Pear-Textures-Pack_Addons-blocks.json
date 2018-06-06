@@ -1,0 +1,17 @@
+//Beautiful leaves.
+	"leaves" : { 
+		"blockshape" : "seagrass",
+		"isotropic" : {"up" : true, "down" : true},
+		"textures" : "leaves",
+		"carried_textures" : "leaves_carried", 
+		"brightness_gamma" : 0.80,
+    "sound": "grass"
+	},
+	"leaves2" : { 
+		"blockshape" : "seagrass",
+		"isotropic" : {"up" : true, "down" : true},
+		"textures" : "leaves2",
+		"carried_textures" : "leaves_carried2",
+		"brightness_gamma" : 0.80,
+		"sound": "grass"
+	},

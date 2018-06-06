@@ -1,0 +1,80 @@
+//Flipbook texture for beacon.
+{
+  "animation": {
+    "frametime": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ] 
+  }
+}
+
+//Flipbook texture for burning furnace.
+{
+  "animation": {
+    "frametime": 2
+  }
+}
+
+//Flipbook texture for lit redstone lamp.
+{
+  "animation": {
+    "frametime": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ] 
+  }
+}
+
+//Flipbook texture for kelp plant. Replacing needed.
+{
+  "animation": {
+    "frametime": 4
+  }
+}
+
+//Flipbook texture for the top of kelp plant. Replacing needed.
+{
+  "animation": {
+    "frametime": 4
+  }
+}
+
+//Flipbook texture for sea grass. Replacing needed.
+{
+  "animation": {
+    "frametime": 3
+  }
+}
+
+//Flipbook texture for the top of tall sea grass. Replacing needed.
+{
+  "animation": {
+    "frametime": 3
+  }
+}
+
+//Flipbook texture for the bottom of tall sea grass. Replacing needed.
+{
+  "animation": {
+    "frametime": 3
+  }
+}
+
+//Flipbook texture for lit Jack-o'-lantern.
+{
+  "animation": {
+    "frametime": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ] 
+  }
+}
+
+//Flipbook texture for glowstone.
+{
+  "animation": {
+    "frametime": 4,
+    "frames": [ 0, 1, 2, 3, 4, 3, 2 ,1 ] 
+  }
+}
+
+//Flipbook texture for lit redstone ore.
+{
+  "animation":
+    "frametime": 3
+  }
+}
