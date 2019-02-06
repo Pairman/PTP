@@ -13,12 +13,12 @@
 ###            [　　　在百度云查看](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)
 　　基岩版的材质包为mcpack格式，您可以直接打开；如果您是Android用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
 ```markdown
-　　Android: /sdcard/games/com.mojang/resource_packs/
+　　　Android: /sdcard/games/com.mojang/resource_packs/
 ```
-　　Java版的材质包为zip格式，您可以将zip文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
+　　　Java版的材质包为zip格式，您可以将zip文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
 ```markdown
-　　Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
-　　Linux: /home/.minecraft/AppData/Roaming/.minecraft/resourcepacks/
+　　　Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
+　　　Linux: /home/.minecraft/AppData/Roaming/.minecraft/resourcepacks/
 ```
 
 # ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png)截图欣赏
