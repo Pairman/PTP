@@ -10,7 +10,7 @@
 ###            [从MEGA下载 JE1.14](https://mega.nz/#!JdAH2arR)
 ###            [从百度云下载 JE1.14](https://pan.baidu.com/s/1zDzUqrsBaTVTcR8IE2ljiA)
 　　还在寻找稍旧版本的下载？链接就在下方。
-###            [在MEGA查看](https://mega.nz/#!QJRxlAIS)
+###            [在MEGA查看](https://mega.nz/#F!FFhSHZoZ)
 ###            [在百度云查看](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)
 　　基岩版的材质包为mcpack格式，您可以直接打开；如果您是Android用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
 ```markdown
