@@ -18,7 +18,7 @@
 　　　Java版的材质包为zip格式，您可以将zip文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
 ```markdown
 　　　Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
-　　　Linux: /home/.minecraft/AppData/Roaming/.minecraft/resourcepacks/
+　　　Linux: /home/.minecraft/.minecraft/resourcepacks/
 ```
 
 # ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png)截图欣赏
