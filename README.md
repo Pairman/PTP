@@ -3,13 +3,13 @@
 　　梨子材质是一个16x的极简风格材质，它诞生于2014年11月02日，由Pairman小梨人制作。材质更新历时四年之久，并将不断更新下去，致力于向玩家提供更舒适的游戏体验。本材质适用于Minecraft基岩版和Java版；目前已涵盖游戏内近乎所有的方块、物品和生物等材质，贴图风格简约、配色清简明快，保证了统一的视觉风格，为玩家呈现出一个“完美”的方块世界。本材质可以很好地贴合生存、建筑、红石等情景，让玩家在游戏中感受到宁静与舒适。本材质还涵盖了自定义方块(如蓝玫瑰的回归和婀娜多姿的荷花)和定制的界面，这些有趣的特性也会进一步增添游戏的乐趣，使玩家如虎添翼。
         
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
-　　您可以从下方的链接获取适用于基岩版(BE)或Java版(JE)我的世界的最新的梨子材质，下载链接已标明所适用的游戏版本。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
+　　您可以从下方的链接获取适用于基岩版(BE)或Java版(JE)我的世界的最新的梨子材质，链接旁已标明材质适用的游戏版本。您可以选择从MEGA或百度云下载，速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 
-| 适用版本  | 下载链接|
-| :----------: | :-----------:|
-| BE1.6   | [MEGA](https://mega.nz/#!QJRxlAIS)[百度云](https://pan.baidu.com/s/1wslm8pJW_68w5MJLRFkQtg)   |
-| JE1.14   | [MEGA](https://mega.nz/#!JdAH2arR)[百度云](https://pan.baidu.com/s/1zDzUqrsBaTVTcR8IE2ljiA)   |
-| 其他   | [MEGA](https://mega.nz/#F!FFhSHZoZ)[百度云](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)   |
+| 适用版本 | MEGA | 百度云 |
+| :----------: | :-----------: | :-----------: |
+| BE1.6  | [MEGA](https://mega.nz/#!QJRxlAIS) | [百度云](https://pan.baidu.com/s/1wslm8pJW_68w5MJLRFkQtg)  |
+| JE1.14  | [MEGA](https://mega.nz/#!JdAH2arR) | [百度云](https://pan.baidu.com/s/1zDzUqrsBaTVTcR8IE2ljiA)  |
+| 其他  | [MEGA](https://mega.nz/#F!FFhSHZoZ) | [百度云](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)  |
 
 　　基岩版的材质包为mcpack格式，您可以直接打开；如果您是Android用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
 ```markdown
