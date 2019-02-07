@@ -4,13 +4,13 @@
         
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
 　　您可以从下方的链接获取适用于基岩版(BE)或Java版(JE)我的世界的最新的梨子材质，下载链接已标明所适用的游戏版本。下载速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
-###            [　　　从MEGA下载 BE1.6](https://mega.nz/#!QJRxlAIS)
-###            [　　　从百度云下载 BE1.6](https://pan.baidu.com/s/1wslm8pJW_68w5MJLRFkQtg)
-###            [　　　从MEGA下载 JE1.14](https://mega.nz/#!JdAH2arR)
-###            [　　　从百度云下载 JE1.14](https://pan.baidu.com/s/1zDzUqrsBaTVTcR8IE2ljiA)
+[　　　从MEGA下载 BE1.6](https://mega.nz/#!QJRxlAIS)
+[　　　从百度云下载 BE1.6](https://pan.baidu.com/s/1wslm8pJW_68w5MJLRFkQtg)
+[　　　从MEGA下载 JE1.14](https://mega.nz/#!JdAH2arR)
+[　　　从百度云下载 JE1.14](https://pan.baidu.com/s/1zDzUqrsBaTVTcR8IE2ljiA)
 　　还在寻找稍旧版本的下载？链接就在下方。
-###            [　　　在MEGA查看](https://mega.nz/#F!FFhSHZoZ)
-###            [　　　在百度云查看](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)
+[　　　在MEGA查看](https://mega.nz/#F!FFhSHZoZ)
+[　　　在百度云查看](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)
 　　基岩版的材质包为mcpack格式，您可以直接打开；如果您是Android用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
 ```markdown
 　　　Android: /sdcard/games/com.mojang/resource_packs/
@@ -18,7 +18,7 @@
 　　　Java版的材质包为zip格式，您可以将zip文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
 ```markdown
 　　　Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
-　　　Linux: /home/.minecraft/resourcepacks/
+　　　Linux: /home/(User)/.minecraft/resourcepacks/
 ```
 
 # ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png)截图欣赏
