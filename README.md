@@ -5,11 +5,11 @@
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png)下载安装
 　　您可以从下方的链接获取适用于基岩版(BE)或Java版(JE)我的世界的最新的梨子材质，链接旁已标明材质适用的游戏版本。您可以选择从MEGA或百度云下载，速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 
-| 适用版本 | MEGA | 百度云 |
-| :----------: | :-----------: | :-----------: |
-| BE1.6  | [下载](https://mega.nz/#!QJRxlAIS) | [下载](https://pan.baidu.com/s/1wslm8pJW_68w5MJLRFkQtg)  |
-| JE1.14  | [下载](https://mega.nz/#!JdAH2arR) | [下载](https://pan.baidu.com/s/1zDzUqrsBaTVTcR8IE2ljiA)  |
-| 其他  | [下载](https://mega.nz/#F!FFhSHZoZ) | [下载](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)  |
+| 材质稳定性 | 适用游戏版本 | MEGA | 百度云 |
+|:----------: | :----------: | :-----------: | :-----------: |
+| 不稳定  | BE1.9  | [下载](https://mega.nz/#!QJRxlAIS) | [下载](https://pan.baidu.com/s/11rY8PN6Nrwz2pWT4WL54SA)  |
+| 稳定  | JE1.14  | [下载](https://mega.nz/#!JdAH2arR) | [下载](https://pan.baidu.com/s/1IP8H7PMB2VTjPkTerGq0XQ)  |
+| 其他  | 其他  | [下载](https://mega.nz/#F!FFhSHZoZ) | [下载](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)  |
 
 　　基岩版的材质包为mcpack格式，您可以直接打开；如果您是Android用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
 ```markdown
