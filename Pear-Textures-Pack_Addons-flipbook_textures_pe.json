@@ -82,36 +82,4 @@
     "atlas_tile": "kelp_top_bulb",
     "ticks_per_frame": 4,
     "frames": [ 0, 1, 2, 3, 4 ]
-  },
-
-//Flipbook texture for seagrass.Replacing Needed.
- {
-    "flipbook_texture": "textures/blocks/seagrass",
-    "atlas_tile": "seagrass_short",
-    "frames": [ 0, 1, 2, 3, 4, 5 ],
-    "ticks_per_frame": 4
-  },
-  {
-    "flipbook_texture": "textures/blocks/seagrass_doubletall_bottom_a",
-    "atlas_tile": "seagrass_tall_bot_a",
-    "frames": [ 0, 1, 2, 3, 4, 5 ],
-    "ticks_per_frame": 3
-  },
-  {
-    "flipbook_texture": "textures/blocks/seagrass_doubletall_bottom_b",
-    "atlas_tile": "seagrass_tall_bot_b",
-    "frames": [ 0, 1, 2, 3, 4, 5 ],
-    "ticks_per_frame": 3
-  },
-  {
-    "flipbook_texture": "textures/blocks/seagrass_doubletall_top_a",
-    "atlas_tile": "seagrass_tall_top_a",
-    "frames": [ 0, 1, 2, 3, 4, 5 ],
-    "ticks_per_frame": 3
-  },
-  {
-    "flipbook_texture": "textures/blocks/seagrass_doubletall_top_b",
-    "atlas_tile": "seagrass_tall_top_b",
-    "frames": [ 0, 1, 2, 3, 4, 5 ],
-    "ticks_per_frame": 3
   }
