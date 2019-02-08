@@ -35,13 +35,6 @@
   }
 }
 
-//Flipbook texture for sea grass. Replacing needed.
-{
-  "animation": {
-    "frametime": 3
-  }
-}
-
 //Flipbook texture for the top of tall sea grass. Replacing needed.
 {
   "animation": {
