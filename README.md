@@ -8,7 +8,7 @@
 | 材质稳定性 | 适用游戏版本 | MEGA | 百度云 |
 |:----------: | :----------: | :-----------: | :-----------: |
 | 不稳定  | BE1.9+  | [下载](https://mega.nz/#!ZBoiWahS!8jIjHHSzUywiXgnxfB2SMcIm5ptoX_9fXlWM5Ixl5ac) | [下载](https://pan.baidu.com/s/11rY8PN6Nrwz2pWT4WL54SA)  |
-| 稳定  | JE1.14+  | [下载](https://mega.nz/#!VRw01CiL!koc_SwCYfUn4cIgQS7UFtra6_mOtBgrZG-tC6dfy0vQ) | [下载](https://pan.baidu.com/s/1AWgKQT8-5lpzKQOx7x1FmA)  |
+| 稳定  | JE1.14+  | [下载](https://mega.nz/#!dEICjSBL!EJxD98G6bia2-c5lNP_QKQZ32Dp2aDTrVH-k4gxulWA) | [下载](https://pan.baidu.com/s/1AWgKQT8-5lpzKQOx7x1FmA)  |
 | 其他  | 其他  | [下载](https://mega.nz/#F!FFhSHZoZ!AbkbZEQt4R3nvSvEH08ObQ) | [下载](https://pan.baidu.com/s/1Sl9xXR8XxZ12AOiL_v3SLg)  |
 
 　　基岩版的材质包为mcpack格式，您可以直接打开；如果您是Android用户，也可将材质包解压至如下路径，随后在游戏设置中启用材质：
