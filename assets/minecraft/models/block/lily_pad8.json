@@ -1,0 +1,41 @@
+{
+	"textures": {"1": "block/lily_lotus"},
+	"elements": [
+		{
+			"name": "stem",
+			"from": [5, 0, 5],
+			"to": [6, 5, 6],
+			"faces": {
+				"north": {"uv": [2, 11, 3, 16], "texture": "#1"},
+				"east": {"uv": [2, 11, 3, 16], "texture": "#1"},
+				"south": {"uv": [2, 11, 3, 16], "texture": "#1"},
+				"west": {"uv": [2, 11, 3, 16], "texture": "#1"},
+				"up": {"uv": [2, 11, 3, 12], "texture": "#1"},
+				"down": {"uv": [2, 11, 3, 12], "texture": "#1"}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "seedpod",
+			"from": [4, 5, 4],
+			"to": [7, 6, 7],
+			"faces": {
+				"north": {"uv": [4, 7, 7, 8], "texture": "#1"},
+				"east": {"uv": [4, 7, 7, 8], "texture": "#1"},
+				"south": {"uv": [4, 7, 7, 8], "texture": "#1"},
+				"west": {"uv": [4, 7, 7, 8], "texture": "#1"},
+				"up": {"uv": [8, 7, 11, 10], "texture": "#1"},
+				"down": {"uv": [0, 7, 3, 10], "texture": "#1"}
+			},
+			"type": "cube"
+		}
+	],
+	"groups": [
+		{
+			"name": "lotus",
+			"isOpen": true,
+			"display": {"visibility": true, "autouv": true},
+			"children": [0, 1]
+		}
+	]
+}

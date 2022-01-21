@@ -1,0 +1,117 @@
+{
+	"textures": {"1": "block/lily_pad"},
+	"elements": [
+		{
+			"name": "lily_pad1_0",
+			"from": [2, 1, 2],
+			"to": [8, 2, 15],
+			"faces": {
+				"north": {"uv": [2, 2, 8, 3], "texture": "#1"},
+				"east": {
+					"uv": [9, 2, 10, 15],
+					"texture": "#1",
+					"rotation": 90
+				},
+				"south": {"uv": [2, 2, 8, 3], "texture": "#1"},
+				"west": {
+					"uv": [2, 2, 8, 3],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"up": {"uv": [2, 2, 8, 15], "texture": "#1"},
+				"down": {
+					"uv": [9, 2, 15, 15],
+					"texture": "#1",
+					"rotation": 180
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "lily_pad1_1",
+			"from": [9, 1, 2],
+			"to": [15, 2, 15],
+			"faces": {
+				"north": {"uv": [8, 2, 2, 3], "texture": "#1"},
+				"east": {
+					"uv": [3, 2, 2, 15],
+					"texture": "#1",
+					"rotation": 90
+				},
+				"south": {"uv": [8, 2, 2, 3], "texture": "#1"},
+				"west": {
+					"uv": [8, 2, 7, 15],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"up": {"uv": [8, 2, 2, 15], "texture": "#1"},
+				"down": {
+					"uv": [15, 2, 9, 15],
+					"texture": "#1",
+					"rotation": 180
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "lily_pad1_2",
+			"from": [8, 1, 8],
+			"to": [9, 2, 15],
+			"faces": {
+				"north": {
+					"uv": [2, 2, 3, 3],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"east": {
+					"uv": [2, 2, 3, 9],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [2, 2, 3, 3],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"west": {
+					"uv": [2, 2, 3, 9],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"up": {
+					"uv": [2, 2, 3, 9],
+					"texture": "#1",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [2, 2, 3, 9],
+					"texture": "#1",
+					"rotation": 270
+				}
+			},
+			"type": "cube"
+		},
+		{
+			"name": "stem",
+			"from": [8, 0, 8],
+			"to": [9, 1, 9],
+			"faces": {
+				"north": {"uv": [2, 2, 3, 3], "texture": "#1"},
+				"east": {"uv": [2, 2, 3, 3], "texture": "#1"},
+				"south": {"uv": [2, 2, 3, 3], "texture": "#1"},
+				"west": {"uv": [2, 2, 3, 3], "texture": "#1"},
+				"up": {"uv": [2, 2, 3, 3], "texture": "#1"},
+				"down": {"uv": [2, 2, 3, 3], "texture": "#1"}
+			},
+			"type": "cube"
+		}
+	],
+	"groups": [
+		{
+			"name": "lily_pad",
+			"isOpen": true,
+			"display": {"visibility": true, "autouv": true},
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
