@@ -1,3 +1,6 @@
+ <img src="pack.png" width = "128" height = "128"/>
+
+
 # Continued by LIPiston | 由 LIPiston 续更中
 ![title_small](https://ooo.0o0.ooo/2018/04/15/5ad35aaeb7ceb.png)
 # ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png)材质简介
