@@ -1,6 +1,6 @@
 # [Frozen Pear Pack](https://github.com/LIPiston/Frozen_Pear_Pack)
 
-# THIS REPO IS EOL and OUTDATED, SEE THE LINK ABOVE FOR CONTINUED PORT | 本项目已停止开发很久，上方链接为续更移植版。
+# This repo is EOL and OUTDATED, go to the link above for the continued port | 本项目已停止开发很久，上方链接为续更移植版。
 
 ![title_small](https://ooo.0o0.ooo/2018/04/15/5ad35aaeb7ceb.png)
 
