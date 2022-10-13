@@ -16,7 +16,7 @@ Pear Textures Pack is a 16x simplistic resource pack, maintained by Pairman sinc
 # ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png) Downloads/下载安装
 
 
-You can download PTP from [here](https://github.com/Pairman/PTP/tree/master/Pear%20Textures%20Pack)for BE and JE. Downoad time depends on your network but should be finished within a cup of coffee's time. 
+You can download PTP from [here](https://github.com/Pairman/PTP/tree/master/Pear%20Textures%20Pack) for BE and JE. Downoad time depends on your network but should be finished within a cup of coffee's time. 
 
 您可以从[这里](https://github.com/Pairman/PTP/tree/master/Pear%20Textures%20Pack)获取适用于 基岩版(BE) 或 Java版(JE)Minecraft 的最新的梨子材质。速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 
