@@ -13,7 +13,7 @@ Pear Textures Pack is a 16x simplistic resource pack, maintained by Pairman sinc
 梨子材质是一款 16x 的极简风格材质，它诞生于 2014 年 11 月 02 日，由 Pairman小梨人 制作。材质最开始仅为为 Minecraft 手机版 制作的整合包，后来逐渐发展为梨子材质，并且逐渐涵盖游戏的绝大部分贴图。本材质致力于向玩家提供更舒适的游戏体验。本材质适用于 基岩版 和 Java版；目前已涵盖游戏内近乎所有的方块、物品和生物等材质，贴图风格简约、配色清简明快，保证了统一的视觉风格，为玩家呈现出一个近乎完美的方块世界。本材质可以很好地贴合生存、建筑、红石等情景，让玩家在游戏中感受到宁静与舒适。本材质还涵盖了部分自定义方块（如手机版旧版蓝玫瑰的回归、多姿的荷叶与荷花)和定制的游戏界面，这些有趣的特性也会进一步增添游戏乐趣。
 
 
-# ![2_download](https://raw.githubusercontent.com/Pairman/PTP/master/images/2_download) Downloads/下载安装
+# ![2_download](https://raw.githubusercontent.com/Pairman/PTP/master/images/2_download.png) Downloads/下载安装
 
 
 You can download PTP from [here](https://github.com/Pairman/PTP/tree/master/Pear%20Textures%20Pack) for BE and JE. Downoad time depends on your network but should be finished within a cup of coffee's time. 
