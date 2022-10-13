@@ -2,10 +2,10 @@
 # 本项目已停止开发很久，[冻梨子材质](https://github.com/LIPiston/Frozen_Pear_Pack)为续更移植版。
 
 
-![title_small](https://ooo.0o0.ooo/2018/04/15/5ad35aaeb7ceb.png)
+![0_title_small](https://raw.githubusercontent.com/Pairman/PTP/master/images/0_title_small.png)
 
 
-# ![1_inf](https://ooo.0o0.ooo/2018/04/15/5ad356c68a689.png) Description/材质简介
+# ![1_description](https://raw.githubusercontent.com/Pairman/PTP/master/images/1_description.png) Description/材质简介
 
 
 Pear Textures Pack is a 16x simplistic resource pack, maintained by Pairman since Nov 02, 2014. This project started as modified installation packages of Minecraft:PE and gradually evolved to standalone packs, and has redesigned nearly all of the in-game resources, aiming to bring you the most comfortable experience. Now it's is compatible with both BE and JE. And nearly all blocks, items, entities is redesigned simplistically and uniformally. It's the perfect choice for survival, building and redstone scenarios, introducing a calming atmosphere in game. This pack also contains several customized textures (e.g. The port of blue rose from previous versions of BE and more recognizable side textures for pistons) and redesigned GUIs, enhancing the gaming experience. 
@@ -13,7 +13,7 @@ Pear Textures Pack is a 16x simplistic resource pack, maintained by Pairman sinc
 梨子材质是一款 16x 的极简风格材质，它诞生于 2014 年 11 月 02 日，由 Pairman小梨人 制作。材质最开始仅为为 Minecraft 手机版 制作的整合包，后来逐渐发展为梨子材质，并且逐渐涵盖游戏的绝大部分贴图。本材质致力于向玩家提供更舒适的游戏体验。本材质适用于 基岩版 和 Java版；目前已涵盖游戏内近乎所有的方块、物品和生物等材质，贴图风格简约、配色清简明快，保证了统一的视觉风格，为玩家呈现出一个近乎完美的方块世界。本材质可以很好地贴合生存、建筑、红石等情景，让玩家在游戏中感受到宁静与舒适。本材质还涵盖了部分自定义方块（如手机版旧版蓝玫瑰的回归、多姿的荷叶与荷花)和定制的游戏界面，这些有趣的特性也会进一步增添游戏乐趣。
 
 
-# ![4_dow](https://ooo.0o0.ooo/2018/04/15/5ad356daadd7b.png) Downloads/下载安装
+# ![2_download](https://raw.githubusercontent.com/Pairman/PTP/master/images/2_download) Downloads/下载安装
 
 
 You can download PTP from [here](https://github.com/Pairman/PTP/tree/master/Pear%20Textures%20Pack) for BE and JE. Downoad time depends on your network but should be finished within a cup of coffee's time. 
@@ -40,12 +40,12 @@ Java版 的材质包为 zip 格式，您可以将 zip 文件直接存放或解�
 ```
 
 
-# ![3_scr](https://ooo.0o0.ooo/2018/04/15/5ad356e2418e9.png) Screenshots/截图欣赏
+# ![3_screenshot](https://raw.githubusercontent.com/Pairman/PTP/master/images/3_screenshot.png) Screenshots/截图欣赏
 
 
-![lotus](https://ooo.0o0.ooo/2018/04/15/5ad347677c7c7.png)
-![swamp_lantern.png](https://i.loli.net/2019/02/09/5c5dc1212aa1b.png)
-![monument.png](https://i.loli.net/2019/02/09/5c5dc11cf41f3.png)
-![scroll2](https://ooo.0o0.ooo/2018/04/15/5ad3482c14db9.png)
-![scroll1](https://ooo.0o0.ooo/2018/04/15/5ad3481429b8d.png)
-![bamboo_forest.png](https://i.loli.net/2019/02/09/5c5dc11a6d1b0.png)
+![lotus](https://raw.githubusercontent.com/Pairman/PTP/master/images/lotus.png)
+![swamp_lantern.png](https://raw.githubusercontent.com/Pairman/PTP/master/images/swamp_lantern.png)
+![monument.png](https://raw.githubusercontent.com/Pairman/PTP/master/images/monument.png)
+![snow](https://raw.githubusercontent.com/Pairman/PTP/master/images/snow.png)
+![river](https://raw.githubusercontent.com/Pairman/PTP/master/images/river.png)
+![bamboo_jungle.png](bamboo_jungle.png)
