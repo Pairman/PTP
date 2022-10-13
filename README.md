@@ -48,4 +48,4 @@ Java版 的材质包为 zip 格式，您可以将 zip 文件直接存放或解�
 ![monument.png](https://raw.githubusercontent.com/Pairman/PTP/master/images/monument.png)
 ![snow](https://raw.githubusercontent.com/Pairman/PTP/master/images/snow.png)
 ![river](https://raw.githubusercontent.com/Pairman/PTP/master/images/river.png)
-![bamboo_jungle.png](bamboo_jungle.png)
+![bamboo_jungle.png](https://raw.githubusercontent.com/Pairman/PTP/master/images/bamboo_jungle.png)
