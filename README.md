@@ -21,16 +21,16 @@ You can download PTP from [here](https://github.com/Pairman/PTP/tree/master/Pear
 您可以从[这里](https://github.com/Pairman/PTP/tree/master/Pear%20Textures%20Pack)获取适用于 基岩版 或 Java版 的最新的梨子材质。速度取决于您的网络，一般仅会占用不到喝一杯咖啡的时间。
 
 
-For Android, BE uses mcpack format which can be directly opened with the game. Or manually extract zip / mcpack to this location and enable it in game: 
+For Android, BE uses mcpack format which can be directly opened with the game. Or manually extract zip or mcpack to this location and enable it in game: 
 
-基岩版的材质包为 mcpack 格式，您可以直接打开；如果您是 Android 用户，也可将 zip / mcpack 材质包解压至如下路径，随后在游戏设置中启用材质：
+基岩版的材质包为 mcpack 格式，您可以直接打开；如果您是 Android 用户，也可将 zip 或 mcpack 材质包解压至如下路径，随后在游戏设置中启用材质：
 
 ```
 　　　Android: /sdcard/games/com.mojang/resource_packs/
 ```
 
 
-For JE, you can manually extract zip to this location and enable it in game: 
+For JE, you can manually put or extract zip to this location and enable it in game: 
 
 Java版 的材质包为 zip 格式，您可以将 zip 文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
 
