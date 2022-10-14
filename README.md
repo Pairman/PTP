@@ -1,5 +1,5 @@
 # PTP is DISCOUNTINUED and OUTDATED, check [Frozen Pear Pack](https://github.com/LIPiston/Frozen_Pear_Pack) for its continuation. 
-# 本项目已停止开发很久，[冻梨子材质](https://github.com/LIPiston/Frozen_Pear_Pack)为续更移植版。
+# 本项目已停止开发很久，[冻梨子材质](https://fpp.git.pnxlr.eu.org/)为续更移植版。
 
 
 ![0_title_small](https://raw.githubusercontent.com/Pairman/PTP/master/images/0_title_small.png)
